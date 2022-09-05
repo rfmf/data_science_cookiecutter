@@ -1,0 +1,9 @@
+# local package
+-e .
+
+# external requirements
+pdoc3
+pylint
+unittest
+hypothesis
+python-dotenv>=0.5.1
